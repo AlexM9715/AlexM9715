@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**AlexM9715/AlexM9715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander Martinez
 ==========================================================================================================================================
 
@@ -13,7 +7,6 @@ Full Stack Software Developer
 Banker turned Programmer in Java, JavaScript and Python. I am a recent graduate from the Coding Dojo Software Development Coding Bootcamp. I am motivated and eager to develop, deepen, and optimize skills while designing, developing, testing, deploying, maintaining and improving software. Beyond excited where this new career path takes me.
 
 * 🖥️  See my portfolio at [My Portfolio](http://www.alexander-m.com)
-* ✉️  You can contact me at [alexmtz9715@gmail.com](mailto:alexmtz9715@gmail.com)
 
 ### Skills
 
